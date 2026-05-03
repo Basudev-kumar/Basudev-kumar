@@ -128,33 +128,17 @@ I'm a passionate **Full Stack Developer** from **Jharkhand, India 🇮🇳**, wh
 <div align="center">
 
 <!-- GitHub Stats Card -->
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Basudev-kumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a371f7&icon_color=6e40c9&text_color=c9d1d9&ring_color=a371f7&count_private=true&include_all_commits=true&cache_seconds=21600"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Basudev-kumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a371f7&icon_color=6e40c9&text_color=c9d1d9&ring_color=a371f7&count_private=true&include_all_commits=true&cache_seconds=21600" alt="GitHub Stats"/>
-</picture>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Basudev-kumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a371f7&icon_color=6e40c9&text_color=c9d1d9&ring_color=a371f7&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 &nbsp;
 <!-- Top Languages Card -->
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Basudev-kumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a371f7&text_color=c9d1d9&langs_count=8&cache_seconds=21600"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basudev-kumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a371f7&text_color=c9d1d9&langs_count=8&cache_seconds=21600" alt="Top Languages"/>
-</picture>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Basudev-kumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a371f7&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 
 <br/><br/>
 
-<!-- Streak Stats (using the official new domain) -->
-<a href="https://github.com/Basudev-kumar">
-  <img src="https://streak-stats.demolab.com/?user=Basudev-kumar&theme=tokyonight&hide_border=true&background=0d1117&stroke=6e40c9&ring=a371f7&fire=e3b341&currStreakLabel=a371f7&sideLabels=8b949e&dates=6e7681&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak"/>
-</a>
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com/?user=Basudev-kumar&theme=tokyonight&hide_border=true&background=0d1117&stroke=6e40c9&ring=a371f7&fire=e3b341&currStreakLabel=a371f7&sideLabels=8b949e&dates=6e7681&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak"/>
 
 </div>
-
-> 💡 **If stats images don't load:** The public `github-readme-stats` instance sometimes gets rate-limited. To fix permanently, [deploy your own instance](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) on Vercel (free, takes 2 minutes) and replace the URLs above with your personal domain.
 
 ---
 
