@@ -58,11 +58,11 @@ I'm a passionate **Full Stack Developer** from **Jharkhand, India 🇮🇳**, wh
 - 🔭 &nbsp;Building **production-grade apps** with the **MERN Stack**
 - 🏗️ &nbsp;Architecting systems with **JWT Auth**, **RBAC**, and **REST APIs**
 - 🧠 &nbsp;Sharpening skills in **DSA** and **System Design**
-- 🌱 &nbsp;Exploring **TypeScript**, **Next.js**, and **Cloud Architecture**
+- 🌱 &nbsp;Exploring **Devops**, **AI**, and **Cloud Architecture**
 - 🚀 &nbsp;Deployed on **Vercel**, **Render**, and **MongoDB Atlas**
 - 💡 &nbsp;Writing clean code that doesn't need comments to explain itself
 - 🎯 &nbsp;Goal: Ship products at **global scale**
-- 📫 &nbsp;Reach me at **[basudevkumar.dev@gmail.com](mailto:basudevkumar.dev@gmail.com)**
+- 📫 &nbsp;Reach me at **[vasu264kumar@gmail.com](mailto:vasu264kumar@gmail.com)**
 
 <br clear="both"/>
 
